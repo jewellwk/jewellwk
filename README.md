@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Jewell ## (joo-well)
+# Hi, I'm Jewell (joo-well)
 
 ☕ Coffee &nbsp;|&nbsp; 💻 Computers &nbsp;|&nbsp; 🎓 Education &nbsp;|&nbsp; 📚 Books &nbsp;|&nbsp; 🎨 Art & Design
 
