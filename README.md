@@ -1,16 +1,18 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**jewellwk/jewellwk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Jewell Wright
 
-Here are some ideas to get you started:
+☕ Coffee &nbsp;|&nbsp; 💻 Computers &nbsp;|&nbsp; 🎓 Education &nbsp;|&nbsp; 📚 Books &nbsp;|&nbsp; 🎨 Art & Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+### My work sits at the intersection of:
+
+- 🤖 AI/ML systems
+- 📊 Data engineering
+- 🍎 Developer education
+- 🏗️ GPU and compute infrastructure
+- 🔬 Applied research
+- 💬 Technical storytelling
+
+I enjoy building systems, teaching complex ideas clearly, and exploring how modern AI infrastructure can become more accessible, reliable, and useful.
