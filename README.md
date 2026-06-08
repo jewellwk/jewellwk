@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Jewell Wright
+# Hi, I'm Jewell 
 
 ☕ Coffee &nbsp;|&nbsp; 💻 Computers &nbsp;|&nbsp; 🎓 Education &nbsp;|&nbsp; 📚 Books &nbsp;|&nbsp; 🎨 Art & Design
 
