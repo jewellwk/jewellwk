@@ -11,8 +11,8 @@
 - 🤖 AI/ML systems
 - 📊 Data engineering
 - 🍎 Developer education
-- 🏗️ GPU and compute infrastructure
-- 🔬 Applied research
 - 💬 Technical storytelling
+- 🔬 Applied research
+- 🏗️ GPU and compute infrastructure
 
 I enjoy building systems, teaching complex ideas clearly, and exploring how modern AI infrastructure can become more accessible, reliable, and useful.
